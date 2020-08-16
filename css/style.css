@@ -7242,3 +7242,7 @@ h6 {
   border-top-right-radius: 1rem;
 
 }
+.navbar-brand{
+  font-family: 'Sofia', cursive;
+  font-size: 1.75rem;
+}
